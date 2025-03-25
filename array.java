@@ -1,9 +1,20 @@
 public class Array{
 	public static void main(Static vinoda[]){
-		const int Array_Size = 3;
-		int num ={1,3,5};
-		sum + =num 
-		System.out.println(sum +"1");
+		int array[]={9};
+        boolean carry = true;
+        for(int index =array.length -1;index >=0;index--)
+        	if(carry){
+        		array[index] +=1;
+        		if(array[index]==10){
+        			array[index]=0;
+        		}else{
+        			carry =false;
+        		}
+        	}
 	}
+	System.out.println("{");
+    if(carry) {
+    	
+    }
 	
 }

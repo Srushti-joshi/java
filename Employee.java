@@ -10,6 +10,7 @@ public class Employee {
         this.employeeId = id;
         System.out.println("Employee name set to: " + name + " with ID: " + id);
     }
+    
     public void setEmployeeSalary(double salary) {
         System.out.println("Employee salary set to: " + salary);
 }

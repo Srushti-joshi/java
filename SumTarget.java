@@ -9,8 +9,6 @@ int target = 25;
     sum += arr[i];
 
 }
-
-
 if(sum == target)
 
 System.out.println("Target equals sum of all elements of array");

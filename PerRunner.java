@@ -7,9 +7,4 @@ public class PerRunner{
 		System.out.println(new Per());
 
 	}
-
-
-
-	
-	
 }

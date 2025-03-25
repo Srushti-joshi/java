@@ -1,6 +1,6 @@
 public class Cosmetic{
 	public static cosmeticTypes[]={null,null,null};
-	public static index;
+	public static index;s
 	public static void main searchCosmetic(String type){
 		boolean found =false;
 		for(int i=0;i<CosmeticType.length;i++){

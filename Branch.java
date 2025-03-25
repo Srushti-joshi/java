@@ -3,6 +3,7 @@ public class Branch{
 	public static int index=0;
 	public static void displayBranch(String name){
 	if(BranchName !=null)
+		
 	{
 			if(index<BranchName.length)
 			{
